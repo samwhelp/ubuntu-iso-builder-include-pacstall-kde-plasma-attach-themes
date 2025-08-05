@@ -20,4 +20,4 @@ pacstall-themes-install
 ## ## pacstall-packages
 ##
 
-pacstall-packages-install
+#pacstall-packages-install
