@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         Ubuntu GNU/Linux
     shortProductName:    Ubuntu
-    version:             25.04
-    shortVersion:        25.04
-    versionedName:       Ubuntu 25.04 (Plucky Puffin)
-    shortVersionedName:  Ubuntu 25.04
+    version:             25.10
+    shortVersion:        25.10
+    versionedName:       Ubuntu 25.10 (Questing Quokka)
+    shortVersionedName:  Ubuntu 25.10
     bootloaderEntryName: Ubuntu
     productUrl:          https://ubuntu.com/
     supportUrl:          https://ubuntu.com/

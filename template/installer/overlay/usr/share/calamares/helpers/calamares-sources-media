@@ -2,7 +2,7 @@
 
 CHROOT=$(mount | grep proc | grep calamares | awk '{print $3}' | sed -e "s#/proc##g")
 KNOWN_MEDIUM_PATHS="/run/live/medium /run/initramfs/live"
-RELEASE="plucky"
+RELEASE="questing"
 
 # Support both dracut and initramfs configurations to avoid substitutions
 # in live-build, see: #1089618

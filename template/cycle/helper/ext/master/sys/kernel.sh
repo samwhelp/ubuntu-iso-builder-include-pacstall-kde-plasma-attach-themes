@@ -6,9 +6,9 @@
 
 sys_kernel_package_name_find () {
 
-	sys_kernel_package_name_find_for_specific
+	#sys_kernel_package_name_find_for_specific
 
-	#sys_kernel_package_name_find_for_generic
+	sys_kernel_package_name_find_for_generic
 
 	#sys_kernel_package_name_find_via_apt_cache
 
