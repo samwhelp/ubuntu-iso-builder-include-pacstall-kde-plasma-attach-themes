@@ -20,6 +20,7 @@ kde-standard
 
 kwin-x11
 kwin-addons
+kwin-style-aurorae
 
 
 kde-spectacle
