@@ -222,6 +222,8 @@ local run_cmd=$(cat << __EOF__
 
 		bean-appearance-citrus-icon-theme
 		bean-appearance-greystone-icon-theme
+		bean-appearance-questx-icon-theme
+		bean-appearance-canta-icon-theme
 
 
 		bean-appearance-vimix-gtk-theme
