@@ -234,13 +234,20 @@ local run_cmd=$(cat << __EOF__
 		bean-appearance-graphite-gtk-theme
 
 
+		bean-appearance-layan-kde-theme
+		bean-appearance-layan-gtk-theme
+
+
+		bean-appearance-jasper-kde-theme
+		bean-appearance-jasper-gtk-theme
+
+
 		bean-appearance-orchis-kde-theme
 		bean-appearance-fluent-kde-theme
 		bean-appearance-colloid-kde-theme
-		bean-appearance-layan-kde-theme
 		bean-appearance-qogir-kde-theme
 		bean-appearance-lavanda-kde-theme
-		bean-appearance-jasper-kde-theme
+
 
 __EOF__
 )
