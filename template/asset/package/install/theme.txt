@@ -34,7 +34,7 @@ gtk-update-icon-cache
 
 gtk2-engines
 gtk2-engines-murrine
-gtk2-engines-aurora
+#gtk2-engines-aurora
 #gtk2-engines-pixbuf
 #gtk2-engines-cleanice
 #gtk2-engines-qtcurve
