@@ -19,6 +19,9 @@ kde-standard
 
 
 xwayland
+#xwayland-run
+
+
 #kwin-x11
 kwin-addons
 kwin-style-aurorae
